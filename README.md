@@ -1,6 +1,6 @@
 # DokkanIdentifierConvertor
 
-DokkanIdentifierConvertor is a simple program written in C# that allows users to convert Dokkan Battle account identifiers. With this tool, users can easily convert their account identifier from one format (216 characters long) to another (152 characters long, usable by various bots).
+DokkanIdentifierConvertor is a simple program written in C# that allows users to convert Dokkan Battle account identifiers. With this tool, users can easily convert their account identifier from one format (216 characters long) to another (152 characters long, usable by various bots).  
 **Features**
 
    - Convert account identifier: With DokkanIdentifierConvertor, users can convert their Dokkan Battle account identifier from one format to another.
